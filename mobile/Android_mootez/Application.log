@@ -1,0 +1,11 @@
+[Android_mootez INFO ] 2020-07-05 22:15:54.458 Hooks:69 - start video 
+[Android_mootez INFO ] 2020-07-05 22:15:54.554 ActionStepDef:14 - application mobile  qualipro 
+[Android_mootez INFO ] 2020-07-05 22:15:58.185 BasePage:223 - user nameFD
+[Android_mootez INFO ] 2020-07-05 22:16:00.114 Hooks:85 - connection with io.appium.java_client.android.connection.ConnectionState@2fb25f4c
+[Android_mootez INFO ] 2020-07-05 22:16:00.115 Hooks:96 - connection with data
+[Android_mootez INFO ] 2020-07-05 22:16:00.117 ActionPage:233 - true
+[Android_mootez INFO ] 2020-07-05 22:16:00.569 BasePage:223 - password is FD
+[Android_mootez INFO ] 2020-07-05 22:16:01.855 BasePage:155 - press login button
+[Android_mootez INFO ] 2020-07-05 22:16:02.465 BasePage:161 - consulter action a realiser
+[Android_mootez INFO ] 2020-07-05 22:18:58.769 ActionStepDef:14 - application mobile  qualipro 
+[Android_mootez INFO ] 2020-07-05 22:18:59.212 BasePage:223 - user nameFD

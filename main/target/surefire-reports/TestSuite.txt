@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 5.805 s <<< FAILURE! - in TestSuite
+feature(com.qualiprobdd.e2etests.ActionRunner)  Time elapsed: 2.148 s  <<< FAILURE!
+cucumber.runtime.CucumberException: java.lang.NoSuchMethodError: 'void org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(java.lang.String, java.lang.Object)'
+Caused by: java.lang.NoSuchMethodError: 'void org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(java.lang.String, java.lang.Object)'
+

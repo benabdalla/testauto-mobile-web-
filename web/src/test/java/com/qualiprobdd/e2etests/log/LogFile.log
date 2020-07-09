@@ -1,0 +1,4 @@
+2020-07-09 20:35:16,700 - com.qualiprobdd.e2etests.util.AbstractPage - INFO - Begin : Ouvrir l'application QualiProWeb 
+2020-07-09 20:35:23,234 - com.qualiprobdd.e2etests.util.AbstractPage - INFO - saisi login et mot de passe
+2020-07-09 20:35:24,812 - com.qualiprobdd.e2etests.util.AbstractPage - INFO - click sur ouvrir une session
+2020-07-09 20:36:37,758 - com.qualiprobdd.e2etests.util.AbstractPage - INFO - Begin : Ouvrir l'application QualiProWeb 
